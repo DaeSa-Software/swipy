@@ -2,7 +2,7 @@
 
 Landing oficial de SWIPY One y SWIPY Business:
 
-https://daesa-software.github.io/swipy/
+https://swipy.daesasoftware.com/
 
 Sitio estático publicado por GitHub Pages desde `main`, sin compilación.
 Las descargas de Business permanecen en `DaeSa-Software/swipy-pages`.
